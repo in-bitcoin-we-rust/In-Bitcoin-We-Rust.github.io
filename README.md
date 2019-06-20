@@ -44,7 +44,7 @@
 
 ## TRPL
 
-[TRRL 学习笔记](TRPL/README.md)
+[TRPL 学习笔记](TRPL/README.md)
 
 ## TAO
 
