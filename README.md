@@ -37,9 +37,9 @@
     * 也就是说，你只要学会了 rust，就躺着消弭了 50% 的难啃的让 kernel developer 都闻之变色的 bug。
 
 ## Libra
-Libra 中使用的库。用途&用法。
+[Libra 中使用的库。用途&用法。](libra/libra.md)
 
-https://github.com/tyrchen/unchained/blob/master/code/libra.md
+原文链接： https://github.com/tyrchen/unchained/blob/master/code/libra.md
 
 
 ## TRPL
