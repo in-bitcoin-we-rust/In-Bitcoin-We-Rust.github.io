@@ -4,6 +4,7 @@
 
 + no GC, no runtime
     * which made memory safety, and integrates with other languages easily.
+    * 防止GC时性能的不稳定，世界暂停。
 + Reliability
     * The ownership model
 + Productivity
