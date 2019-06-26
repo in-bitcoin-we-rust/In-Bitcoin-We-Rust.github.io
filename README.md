@@ -54,6 +54,7 @@
 
 ## Drawback
 + https://iovxw.net/p/ugly-rust/
++ * https://www.reddit.com/r/rust/comments/c4nb27/what_are_the_things_you_hate_about_rust/
 + https://www.reddit.com/r/rust/comments/c0xwjd/all_i_hear_about_is_how_great_rust_is_what_isnt/
     * Compile times for large projects
     * Crate ecosystem is still very young, volatile and sparse
