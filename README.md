@@ -1,5 +1,11 @@
 # In-Bitcoin-We-Rust.github.io
 
+<!-- 
++ https://github.com/Fullstop000/wickdb/pull/11
++ https://github.com/Fullstop000/wickdb/issues/4
++ https://github.com/Fullstop000/wickdb/issues/3
+ -->
+
 ## Why Rust for blockchain?
 
 + no GC, no runtime
