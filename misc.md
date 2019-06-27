@@ -1,6 +1,8 @@
 # articles
 
 * https://medium.com/@richardanaya/a-journey-through-rust-lifetimes-5a08782c7091
+* https://blog.x5ff.xyz/blog/easy-programming-with-rust-macros/
+* https://medium.com/journey-to-rust/rust-type-language-48e1c43b1ef4
 * https://www.ibm.com/developerworks/cn/opensource/os-developers-know-rust/
 * https://www.reddit.com/r/rust/comments/c326e0/rust_streams/
 * https://www.snoyman.com/blog/2018/12/rust-crash-course-07-async-futures-tokio
