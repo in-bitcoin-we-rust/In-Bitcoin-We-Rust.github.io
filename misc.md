@@ -28,6 +28,8 @@
 
 ## web
 + https://www.reddit.com/r/rust/comments/c7292d/asyncawait_simple_http_server_with_epoll/
+    * https://github.com/murphysean/betarustasyncawait
+* https://github.com/brson/basic-http-server
 * https://blog.yoshuawuyts.com/async-log/
 * https://www.snoyman.com/blog/2018/12/rust-crash-course-07-async-futures-tokio
 * https://speakerdeck.com/_rvidal/concurrency-in-rust-is-boring
