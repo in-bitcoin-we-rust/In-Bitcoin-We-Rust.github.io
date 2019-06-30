@@ -1,6 +1,7 @@
 # Projects
 + https://github.com/brave/adblock-rust
 + https://github.com/Fullstop000/wickdb
++ https://github.com/tokio-rs/tracing
 
 ## Blockchains
 + https://github.com/mimblewimble/grin

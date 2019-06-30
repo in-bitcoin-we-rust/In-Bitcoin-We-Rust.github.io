@@ -1,17 +1,13 @@
 # articles
 
 * https://os.phil-opp.com/heap-allocation/
-* https://blog.yoshuawuyts.com/async-log/
 * https://www.reddit.com/r/rust/comments/c66dtz/async_parallelize_your_shell_commands/
 * https://www.reddit.com/r/rust/comments/c6hbc5/neqo_mozillas_rust_quic_implementation/
 * https://medium.com/@richardanaya/a-journey-through-rust-lifetimes-5a08782c7091
 * https://blog.x5ff.xyz/blog/easy-programming-with-rust-macros/
 * https://medium.com/journey-to-rust/rust-type-language-48e1c43b1ef4
 * https://www.ibm.com/developerworks/cn/opensource/os-developers-know-rust/
-* https://www.reddit.com/r/rust/comments/c326e0/rust_streams/
-* https://www.snoyman.com/blog/2018/12/rust-crash-course-07-async-futures-tokio
 * https://github.com/whoiscc/shattuck
-* https://speakerdeck.com/_rvidal/concurrency-in-rust-is-boring
 * https://estada.ch/2019/6/7/rusts-hidden-talents/
 * https://m.aliyun.com/yunqi/articles/62505
 * https://www.zhihu.com/question/31038569
@@ -29,6 +25,14 @@
 * https://medium.com/apolitical-engineering/how-do-you-impl-display-for-vec-b8dbb21d814f
 * http://kmdouglass.github.io/posts/a-simple-plugin-interface-for-the-rust-ffi/
 * https://gregoryszorc.com/blog/2019/06/24/building-standalone-python-applications-with-pyoxidizer/
+
+## web
++ https://www.reddit.com/r/rust/comments/c7292d/asyncawait_simple_http_server_with_epoll/
+* https://blog.yoshuawuyts.com/async-log/
+* https://www.snoyman.com/blog/2018/12/rust-crash-course-07-async-futures-tokio
+* https://speakerdeck.com/_rvidal/concurrency-in-rust-is-boring
+* https://www.reddit.com/r/rust/comments/c326e0/rust_streams/
+
 
 ## oop
 - https://oribenshir.github.io/afternoon_rusting/blog/rust-for-oop
