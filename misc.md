@@ -1,5 +1,11 @@
 # articles
 
+## stdlib
++ https://ehsanmkermani.com/2019/06/18/rust-std-study-series-interior-mutability/
++ https://blog.yoshuawuyts.com/std-time/
+
+## rustc? rust-os?
+* https://medium.com/@richardanaya/a-journey-through-rust-lifetimes-5a08782c7091
 * https://os.phil-opp.com/heap-allocation/
 * https://www.reddit.com/r/rust/comments/c66dtz/async_parallelize_your_shell_commands/
 * https://www.reddit.com/r/rust/comments/c6hbc5/neqo_mozillas_rust_quic_implementation/
@@ -7,6 +13,10 @@
 * https://blog.x5ff.xyz/blog/easy-programming-with-rust-macros/
 * https://medium.com/journey-to-rust/rust-type-language-48e1c43b1ef4
 * https://www.ibm.com/developerworks/cn/opensource/os-developers-know-rust/
+* https://www.redox-os.org/news/rsoc-ptrace-2/
+    - 为Redox OS实现ptrace Part 2
+* https://blog.ryanlevick.com/DMG-01/public/book/
+    - 使用Rust从零开始制作任天堂GameBoy模拟器
 * https://github.com/whoiscc/shattuck
 * https://estada.ch/2019/6/7/rusts-hidden-talents/
 * https://m.aliyun.com/yunqi/articles/62505
@@ -30,10 +40,19 @@
 + https://www.reddit.com/r/rust/comments/c7292d/asyncawait_simple_http_server_with_epoll/
     * https://github.com/murphysean/betarustasyncawait
 * https://github.com/brson/basic-http-server
+* async
+    - https://www.reddit.com/r/rust/comments/c71f03/im_a_phd_student_building_a_fast_research/
+    - https://github.com/jonhoo
+    - https://www.youtube.com/watch?v=9_3krAQtD2k
 * https://blog.yoshuawuyts.com/async-log/
 * https://www.snoyman.com/blog/2018/12/rust-crash-course-07-async-futures-tokio
 * https://speakerdeck.com/_rvidal/concurrency-in-rust-is-boring
 * https://www.reddit.com/r/rust/comments/c326e0/rust_streams/
+* https://medium.com/swlh/writing-a-proxy-in-rust-and-why-it-is-the-language-of-the-future-265d8bf7c6d2
+    - https://github.com/sozu-proxy/sozu
+* https://github.com/tokio-rs/tracing
++ https://github.com/mozilla/application-services
++ https://github.com/mozilla/neqo
 
 
 ## oop
@@ -52,3 +71,12 @@
 - https://preshing.com/20121019/this-is-why-they-call-it-a-weakly-ordered-cpu
 - https://mtak-blog.github.io/are-we-lock-free-yet
 * https://cfsamson.gitbook.io/green-threads-explained-in-200-lines-of-rust/
+
+## closure
++ https://medium.com/swlh/understanding-closures-in-rust-21f286ed1759
+
+## misc
++ https://raphaelgomes.dev/blog/articles/2019-07-01-sharing-references-between-python-and-rust.html
+    * https://heptapod.octobus.net/gracinet/rust-cpython-shared-ref/tree/topic/default/lock_explicit_count
+    * 在Python和Rust之间共享引用
+
