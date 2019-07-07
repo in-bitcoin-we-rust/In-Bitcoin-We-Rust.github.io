@@ -75,8 +75,10 @@
 ## closure
 + https://medium.com/swlh/understanding-closures-in-rust-21f286ed1759
 
+## GUI
++ https://www.reddit.com/r/rust/comments/c9l2ow/speedy_desktop_apps_with_gtk_and_rust/
+
 ## misc
 + https://raphaelgomes.dev/blog/articles/2019-07-01-sharing-references-between-python-and-rust.html
     * https://heptapod.octobus.net/gracinet/rust-cpython-shared-ref/tree/topic/default/lock_explicit_count
     * 在Python和Rust之间共享引用
-
