@@ -30,3 +30,8 @@ p.10
 + rustfmt
 + clippy
 + rustfix
+
+## chap02
++ Rust 提供的链表 `Linkedlist<T>` 是双向链表,允许在任意一端插入或弹出元素。但是通常最好使用 Vec
+或 VecDeque 类型 , 因为它们比链表更加快速,内存访问效率更高,并且可以更好地利用 CPU
+缓存。
