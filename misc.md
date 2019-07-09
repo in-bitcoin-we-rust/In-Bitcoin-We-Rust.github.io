@@ -35,6 +35,10 @@
 * https://medium.com/apolitical-engineering/how-do-you-impl-display-for-vec-b8dbb21d814f
 * http://kmdouglass.github.io/posts/a-simple-plugin-interface-for-the-rust-ffi/
 * https://gregoryszorc.com/blog/2019/06/24/building-standalone-python-applications-with-pyoxidizer/
+* https://gist.github.com/edmundsmith/855fcf0cb35dd467c29a9350481f0ecf
+    - Rust中模拟高阶类型的方法
+        + 该文作者提出了一种方法，通过类型参数向下转换泛型trait来模拟当前Rust中的高阶类型/泛型关联类型，并且提供了使用该方法在Rust中创建Functors，Applicatives和Monads的简单示例。
+
 
 ## web
 + https://medium.com/nearprotocol/rust-parallelism-for-non-c-c-developers-ec23f48b7e56
@@ -54,6 +58,7 @@
 * https://github.com/tokio-rs/tracing
 + https://github.com/mozilla/application-services
 + https://github.com/mozilla/neqo
++ https://gill.net.in/posts/auth-microservice-rust-actix-web1.0-diesel-complete-tutorial/
 
 
 ## oop
@@ -83,3 +88,5 @@
 + https://raphaelgomes.dev/blog/articles/2019-07-01-sharing-references-between-python-and-rust.html
     * https://heptapod.octobus.net/gracinet/rust-cpython-shared-ref/tree/topic/default/lock_explicit_count
     * 在Python和Rust之间共享引用
++ https://gist.github.com/edmundsmith/855fcf0cb35dd467c29a9350481f0ecf
+    * 通过类型参数向下转换泛型trait来模拟当前Rust中的高阶类型/泛型关联类型，并且提供了使用该方法在Rust中创建Functors，Applicatives和Monads的简单示例。
