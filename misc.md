@@ -38,7 +38,8 @@
 * https://gist.github.com/edmundsmith/855fcf0cb35dd467c29a9350481f0ecf
     - Rust中模拟高阶类型的方法
         + 该文作者提出了一种方法，通过类型参数向下转换泛型trait来模拟当前Rust中的高阶类型/泛型关联类型，并且提供了使用该方法在Rust中创建Functors，Applicatives和Monads的简单示例。
-
++ https://amos.me/blog/2019/rust-modules-vs-files/
++ https://ehsanmkermani.com/2019/07/03/rust-std-study-series-alloc/
 
 ## web
 + https://medium.com/nearprotocol/rust-parallelism-for-non-c-c-developers-ec23f48b7e56
@@ -90,3 +91,18 @@
     * 在Python和Rust之间共享引用
 + https://gist.github.com/edmundsmith/855fcf0cb35dd467c29a9350481f0ecf
     * 通过类型参数向下转换泛型trait来模拟当前Rust中的高阶类型/泛型关联类型，并且提供了使用该方法在Rust中创建Functors，Applicatives和Monads的简单示例。
+
+
+## OJ-related
+__OJ__
+
++ https://github.com/bhuztez/porus
+
+__solutions__
+
++ https://github.com/aylei/leetcode-rust
++ https://github.com/Aloxaf/LeetCode-Rust
+
+__算法/DS 库__
+
+TODO
