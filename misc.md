@@ -6,6 +6,7 @@
 
 ## rustc? rust-os?
 * https://medium.com/@richardanaya/a-journey-through-rust-lifetimes-5a08782c7091
+* https://matklad.github.io/2019/07/16/perils-of-constructors.html
 * https://os.phil-opp.com/heap-allocation/
 * https://www.reddit.com/r/rust/comments/c66dtz/async_parallelize_your_shell_commands/
 * https://www.reddit.com/r/rust/comments/c6hbc5/neqo_mozillas_rust_quic_implementation/
@@ -13,6 +14,7 @@
 * https://blog.x5ff.xyz/blog/easy-programming-with-rust-macros/
 * https://medium.com/journey-to-rust/rust-type-language-48e1c43b1ef4
 * https://www.ibm.com/developerworks/cn/opensource/os-developers-know-rust/
+* https://zhuanlan.zhihu.com/p/73921538
 * https://www.redox-os.org/news/rsoc-ptrace-2/
     - 为Redox OS实现ptrace Part 2
 * https://blog.ryanlevick.com/DMG-01/public/book/
@@ -91,6 +93,7 @@
     * 在Python和Rust之间共享引用
 + https://gist.github.com/edmundsmith/855fcf0cb35dd467c29a9350481f0ecf
     * 通过类型参数向下转换泛型trait来模拟当前Rust中的高阶类型/泛型关联类型，并且提供了使用该方法在Rust中创建Functors，Applicatives和Monads的简单示例。
++ https://www.reddit.com/r/rust/comments/cethae/introducing_abscissa_a_securityoriented_rust/
 
 
 ## OJ-related
