@@ -95,6 +95,7 @@
     * 通过类型参数向下转换泛型trait来模拟当前Rust中的高阶类型/泛型关联类型，并且提供了使用该方法在Rust中创建Functors，Applicatives和Monads的简单示例。
 + https://www.reddit.com/r/rust/comments/cethae/introducing_abscissa_a_securityoriented_rust/
 + https://rniczh.github.io/blog/lifetimes-intro/
++ https://medium.com/@jondot/my-key-learnings-after-30-000-loc-in-rust-a553e6403c19
 
 
 ## OJ-related
