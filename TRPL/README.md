@@ -50,7 +50,20 @@ deep copy
 
 
 ### 引用、借用
-允许使用值但不获取其所有权
++ 允许使用值但不获取其所有权
++ 引用默认不允许修改引用的值。
++ 可变引用
+    * 在特定作用域中的特定数据有且只有一个可变引用。
+        - 避免数据竞争
+            + 数据竞争
+                * 两个或更多指针同时访问同一数据。
+                * 至少有一个指针被用来写入数据。
+                * 没有同步数据访问的机制。
++ 在任意给定时间，要么 只能有一个可变引用，要么 只能有多个不可变引用。
++ 引用必须总是有效。
+    * 悬垂引用（Dangling References）
+        - 当 dangle 的代码执行完毕后，s 将被释放
+        - `this function's return type contains a borrowed value, but there is no valuefor it to be borrowed from.`
 
 ## 泛型
 
