@@ -89,8 +89,14 @@ deep copy
 ### 线程
 
 ### 消息传递
+golang, Do not communicate by sharing memory; instead, share memory by communicating.
 
-### 共享内存
+### 共享状态
 
-### sync/send
 
+### sync
+线程间转移所有权
+
+
+###  send
+多线程访问
