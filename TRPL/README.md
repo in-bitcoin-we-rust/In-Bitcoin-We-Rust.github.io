@@ -94,9 +94,11 @@ golang, Do not communicate by sharing memory; instead, share memory by communica
 ### 共享状态
 
 
-### sync
+###  send
 线程间转移所有权
 
 
-###  send
+### sync
 多线程访问
+
+&T（T 的引用）是 Send 的话 T 就是 Sync 的，这意味着其引用就可以安全的发送到另一个线程。
