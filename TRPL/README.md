@@ -62,7 +62,7 @@ deep copy
 + 在任意给定时间，要么 只能有一个可变引用，要么 只能有多个不可变引用。
 + 引用必须总是有效。
     * 悬垂引用（Dangling References）
-        - 当 dangle 的代码执行完毕后，s 将被释放
+        - 当 dangle 的代码执行完毕后，变量将被释放
         - `this function's return type contains a borrowed value, but there is no valuefor it to be borrowed from.`
 
 ## 泛型
