@@ -5,9 +5,11 @@
 + https://blog.yoshuawuyts.com/std-time/
 
 ## rustc? rust-os?
+* https://os.phil-opp.com/
+    - writing-an-os-in-rust
+    * https://github.com/rustcc/writing-an-os-in-rust
 * https://medium.com/@richardanaya/a-journey-through-rust-lifetimes-5a08782c7091
 * https://matklad.github.io/2019/07/16/perils-of-constructors.html
-* https://os.phil-opp.com/heap-allocation/
 * https://www.reddit.com/r/rust/comments/c66dtz/async_parallelize_your_shell_commands/
 * https://www.reddit.com/r/rust/comments/c6hbc5/neqo_mozillas_rust_quic_implementation/
 * https://medium.com/@richardanaya/a-journey-through-rust-lifetimes-5a08782c7091
