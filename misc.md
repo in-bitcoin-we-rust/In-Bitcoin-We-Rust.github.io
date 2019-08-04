@@ -96,6 +96,7 @@
 + https://gist.github.com/edmundsmith/855fcf0cb35dd467c29a9350481f0ecf
     * 通过类型参数向下转换泛型trait来模拟当前Rust中的高阶类型/泛型关联类型，并且提供了使用该方法在Rust中创建Functors，Applicatives和Monads的简单示例。
 + https://www.reddit.com/r/rust/comments/cethae/introducing_abscissa_a_securityoriented_rust/
++ https://rniczh.github.io/blog/lifetimes-intro/
 + https://medium.com/@jondot/my-key-learnings-after-30-000-loc-in-rust-a553e6403c19
 
 
@@ -103,12 +104,14 @@
 __OJ__
 
 + https://github.com/bhuztez/porus
++ codewars
 
 __solutions__
 
 + https://github.com/aylei/leetcode-rust
 + https://github.com/Aloxaf/LeetCode-Rust
 + https://github.com/Armavica/99-Problems-Rust
++ https://github.com/MaskRay/99-problems-rust
 
 __算法/DS 库__
 
