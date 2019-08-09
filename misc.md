@@ -100,6 +100,8 @@
 + https://www.reddit.com/r/rust/comments/cethae/introducing_abscissa_a_securityoriented_rust/
 + https://rniczh.github.io/blog/lifetimes-intro/
 + https://medium.com/@jondot/my-key-learnings-after-30-000-loc-in-rust-a553e6403c19
++ https://github.com/SerhiiBilyk/Battleship
+    * 一个 rust 小游戏，适合 rust 入门学习
 
 
 ## OJ-related
