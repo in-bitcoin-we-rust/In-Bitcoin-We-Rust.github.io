@@ -12,6 +12,8 @@
 * https://www.reddit.com/r/rust/comments/c6hbc5/neqo_mozillas_rust_quic_implementation/
 * https://medium.com/@richardanaya/a-journey-through-rust-lifetimes-5a08782c7091
 * https://blog.x5ff.xyz/blog/easy-programming-with-rust-macros/
+    - https://github.com/azriel91/proc_macro_roids
+        +  make writing proc macros more easy
 * https://medium.com/journey-to-rust/rust-type-language-48e1c43b1ef4
 * https://www.ibm.com/developerworks/cn/opensource/os-developers-know-rust/
 * https://zhuanlan.zhihu.com/p/73921538
