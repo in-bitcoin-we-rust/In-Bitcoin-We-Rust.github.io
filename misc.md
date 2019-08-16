@@ -67,7 +67,8 @@
 + https://github.com/mozilla/application-services
 + https://github.com/mozilla/neqo
 + https://gill.net.in/posts/auth-microservice-rust-actix-web1.0-diesel-complete-tutorial/
-
++ https://github.com/Byron/github-star-counter
+    * 供学习 Rust异步编程
 
 ## oop
 - https://oribenshir.github.io/afternoon_rusting/blog/rust-for-oop
