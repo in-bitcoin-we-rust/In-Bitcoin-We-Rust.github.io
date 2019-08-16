@@ -49,6 +49,7 @@
 
 ## web
 + https://huangjj27.github.io/async-book/index.html
++ https://www.steadylearner.com/blog/read/How-to-write-Full-Stack-Rust-code
 + https://medium.com/nearprotocol/rust-parallelism-for-non-c-c-developers-ec23f48b7e56
 + https://www.reddit.com/r/rust/comments/c7292d/asyncawait_simple_http_server_with_epoll/
     * https://github.com/murphysean/betarustasyncawait
