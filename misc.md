@@ -8,6 +8,8 @@
 * https://os.phil-opp.com/
     - writing-an-os-in-rust
     * https://github.com/rustcc/writing-an-os-in-rust
+* https://github.com/lizhuohua/linux-kernel-module-rust
+    * Writing Linux Kernel Module in Rust
 * https://medium.com/@richardanaya/a-journey-through-rust-lifetimes-5a08782c7091
 * https://matklad.github.io/2019/07/16/perils-of-constructors.html
 * https://www.reddit.com/r/rust/comments/c66dtz/async_parallelize_your_shell_commands/
