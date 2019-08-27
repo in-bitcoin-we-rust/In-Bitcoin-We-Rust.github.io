@@ -9,6 +9,9 @@
     - writing-an-os-in-rust
     * https://github.com/rustcc/writing-an-os-in-rust
 * https://fy.blackhats.net.au/blog/html/2019/07/16/cpu_atomics_and_orderings_explained.html
+* https://github.com/lizhuohua/linux-kernel-module-rust
+    * Writing Linux Kernel Module in Rust
+>>>>>>> fb6f9ecbf864e0b460f4a0a08f6f8c69a21142af
 * https://medium.com/@richardanaya/a-journey-through-rust-lifetimes-5a08782c7091
 * https://matklad.github.io/2019/07/16/perils-of-constructors.html
 * https://www.reddit.com/r/rust/comments/c66dtz/async_parallelize_your_shell_commands/
@@ -49,6 +52,7 @@
 + https://ehsanmkermani.com/2019/07/03/rust-std-study-series-alloc/
 
 ## web
++ https://book.async.rs/introduction.html
 + https://huangjj27.github.io/async-book/index.html
 + https://www.steadylearner.com/blog/read/How-to-write-Full-Stack-Rust-code
 + https://medium.com/nearprotocol/rust-parallelism-for-non-c-c-developers-ec23f48b7e56
@@ -69,7 +73,8 @@
 + https://github.com/mozilla/application-services
 + https://github.com/mozilla/neqo
 + https://gill.net.in/posts/auth-microservice-rust-actix-web1.0-diesel-complete-tutorial/
-
++ https://github.com/Byron/github-star-counter
+    * 供学习 Rust异步编程
 
 ## oop
 - https://oribenshir.github.io/afternoon_rusting/blog/rust-for-oop
