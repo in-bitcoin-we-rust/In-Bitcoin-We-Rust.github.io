@@ -50,6 +50,11 @@
         + 该文作者提出了一种方法，通过类型参数向下转换泛型trait来模拟当前Rust中的高阶类型/泛型关联类型，并且提供了使用该方法在Rust中创建Functors，Applicatives和Monads的简单示例。
 + https://amos.me/blog/2019/rust-modules-vs-files/
 + https://ehsanmkermani.com/2019/07/03/rust-std-study-series-alloc/
++ http://rust-lang.github.io/compiler-team
++ https://www.forrestthewoods.com/blog/should-small-rust-structs-be-passed-by-copy-or-by-borrow/
++ https://iolivia.me/posts/6-months-of-rust-game-dev/
++ https://rfdonnelly.github.io/posts/using-tree-sitter-parsers-in-rust/
+    * https://tree-sitter.github.io/tree-sitter/
 
 ## web
 + https://book.async.rs/introduction.html
@@ -63,6 +68,10 @@
     - https://www.reddit.com/r/rust/comments/c71f03/im_a_phd_student_building_a_fast_research/
     - https://github.com/jonhoo
     - https://www.youtube.com/watch?v=9_3krAQtD2k
+    - https://community.libra.org/t/async-await-in-libra-core/1566
+    - https://github.com/lrlna/sketchin/blob/master/zines/async-rust.md
+    - http://fitzgeraldnick.com/2019/08/27/async-stacks-in-rust.html
+    - https://ragona.com/posts/clobber_async_await
 * https://blog.yoshuawuyts.com/async-log/
 * https://www.snoyman.com/blog/2018/12/rust-crash-course-07-async-futures-tokio
 * https://speakerdeck.com/_rvidal/concurrency-in-rust-is-boring
@@ -95,11 +104,13 @@
 
 ## closure
 + https://medium.com/swlh/understanding-closures-in-rust-21f286ed1759
+- https://oribenshir.github.io/afternoon_rusting/blog/closures
 
 ## GUI
 + https://www.reddit.com/r/rust/comments/c9l2ow/speedy_desktop_apps_with_gtk_and_rust/
 
 ## misc
++ https://francismurillo.github.io/2019-07-31-Understanding-Rust-Through-AVL-Trees/
 + https://raphaelgomes.dev/blog/articles/2019-07-01-sharing-references-between-python-and-rust.html
     * https://heptapod.octobus.net/gracinet/rust-cpython-shared-ref/tree/topic/default/lock_explicit_count
     * 在Python和Rust之间共享引用
@@ -110,6 +121,8 @@
 + https://medium.com/@jondot/my-key-learnings-after-30-000-loc-in-rust-a553e6403c19
 + https://github.com/SerhiiBilyk/Battleship
     * 一个 rust 小游戏，适合 rust 入门学习
+* https://wiki.alopex.li/ActuallyUsingCrev
+* https://www.joshmcguigan.com/blog/coverage-reports-code-reading-tool/
 
 
 ## OJ-related
