@@ -123,6 +123,10 @@
     * 一个 rust 小游戏，适合 rust 入门学习
 * https://wiki.alopex.li/ActuallyUsingCrev
 * https://www.joshmcguigan.com/blog/coverage-reports-code-reading-tool/
+* 提高编译速度
+    - http://antoyo.ml/compilation-time-dependencies
+* 节省编译工程文件体积
+    - 用「同一个target 文件夹」来勉强省空间和编译时间
 
 
 ## OJ-related
