@@ -5,6 +5,8 @@
 + https://blog.yoshuawuyts.com/std-time/
 
 ## rustc? rust-os?
+* https://rust-lang.github.io/rustc-guide/
+* https://doc.rust-lang.org/nightly/nightly-rustc/rustc/index.html
 * https://os.phil-opp.com/
     - writing-an-os-in-rust
     * https://github.com/rustcc/writing-an-os-in-rust
