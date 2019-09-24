@@ -5,6 +5,8 @@
 + https://blog.yoshuawuyts.com/std-time/
 
 ## rustc? rust-os?
+* https://rust-lang.github.io/rustc-guide/
+* https://doc.rust-lang.org/nightly/nightly-rustc/rustc/index.html
 * https://os.phil-opp.com/
     - writing-an-os-in-rust
     * https://github.com/rustcc/writing-an-os-in-rust
@@ -127,7 +129,24 @@
 * 提高编译速度
     - http://antoyo.ml/compilation-time-dependencies
 * 节省编译工程文件体积
+    - https://medium.com/@edouard.oger/rust-caching-on-circleci-using-sccache-c996344f0115
+    - https://llogiq.github.io/2018/10/17/space.html
+        + https://www.reddit.com/r/rust/comments/9owc1o/more_space_for_cargo/
+    - 静态链接导致太多重复东西, 各种test全都链一遍一个crate
+    + 其实可以每六周升级Rust的时候删一次，反正不删也是要重新编译的
+        * 只编译不替换
+            - 所以要清理
+                + cargo clean 就全都删除了, 要重新编译，花费时间久
+                + 写脚本清理一个月前生成的文件？可能会误伤
+                + 由 systemd 清理?
+    + CI 的cache？
+        + bin 的可以 cache, lib 的 cache 没有意义
+        + 用sscache来做CI 上的 cache 就不怕爆炸了 
     - 用「同一个target 文件夹」来勉强省空间和编译时间
+        + 把 target 目录人为指定, 设成共享target
+        + ~/.cargo/config 里的 build.target-dir
+        + 或 export CARGO_TARGET_DIR=$HOME/.cache/cargo
+    - 有个cargo的工具可以自动删长期没用过的?
 
 
 ## OJ-related
