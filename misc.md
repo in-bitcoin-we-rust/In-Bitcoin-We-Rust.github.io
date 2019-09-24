@@ -110,6 +110,7 @@
 + https://www.reddit.com/r/rust/comments/c9l2ow/speedy_desktop_apps_with_gtk_and_rust/
 
 ## misc
++ https://github.com/rust-unofficial/patterns
 + https://francismurillo.github.io/2019-07-31-Understanding-Rust-Through-AVL-Trees/
 + https://raphaelgomes.dev/blog/articles/2019-07-01-sharing-references-between-python-and-rust.html
     * https://heptapod.octobus.net/gracinet/rust-cpython-shared-ref/tree/topic/default/lock_explicit_count
