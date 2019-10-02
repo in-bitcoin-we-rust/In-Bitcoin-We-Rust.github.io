@@ -5,6 +5,9 @@
 + https://blog.yoshuawuyts.com/std-time/
 
 ## rustc? rust-os?
+* https://robert.ocallahan.org/2018/09/more-realistic-goals-for-c-lifetimes-10.html
+    - http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
+    - https://github.com/isocpp/CppCoreGuidelines/blob/master/docs/Lifetime.pdf
 * https://rust-lang.github.io/rustc-guide/
 * https://doc.rust-lang.org/nightly/nightly-rustc/rustc/index.html
 * https://os.phil-opp.com/
