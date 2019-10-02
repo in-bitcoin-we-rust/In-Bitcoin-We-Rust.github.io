@@ -13,6 +13,8 @@
 * https://os.phil-opp.com/
     - writing-an-os-in-rust
     * https://github.com/rustcc/writing-an-os-in-rust
++ http://web.eecs.utk.edu/~smarz1/osblog/
+    * Making a RISC-V Operating System using Rust
 * https://fy.blackhats.net.au/blog/html/2019/07/16/cpu_atomics_and_orderings_explained.html
 * https://github.com/lizhuohua/linux-kernel-module-rust
     * Writing Linux Kernel Module in Rust
