@@ -119,6 +119,8 @@
 ## misc
 + https://github.com/rust-unofficial/patterns
 + https://francismurillo.github.io/2019-07-31-Understanding-Rust-Through-AVL-Trees/
++ A closer look at Ownership in Rust
+    * https://blog.thoughtram.io/ownership-in-rust/
 + https://raphaelgomes.dev/blog/articles/2019-07-01-sharing-references-between-python-and-rust.html
     * https://heptapod.octobus.net/gracinet/rust-cpython-shared-ref/tree/topic/default/lock_explicit_count
     * 在Python和Rust之间共享引用
