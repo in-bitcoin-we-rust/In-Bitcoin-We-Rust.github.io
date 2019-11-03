@@ -117,6 +117,9 @@
 + https://www.reddit.com/r/rust/comments/c9l2ow/speedy_desktop_apps_with_gtk_and_rust/
 
 ## misc
++ https://zhuanlan.zhihu.com/p/87922545
+    * 从openresty谈到rust
+    * 人生苦短，我用rust。
 + https://github.com/rust-unofficial/patterns
 + https://francismurillo.github.io/2019-07-31-Understanding-Rust-Through-AVL-Trees/
 + A closer look at Ownership in Rust
