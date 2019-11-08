@@ -62,6 +62,7 @@
 + https://iolivia.me/posts/6-months-of-rust-game-dev/
 + https://rfdonnelly.github.io/posts/using-tree-sitter-parsers-in-rust/
     * https://tree-sitter.github.io/tree-sitter/
++ https://parallel-rust-cpp.github.io/introduction.html
 
 ## web
 + https://book.async.rs/introduction.html
