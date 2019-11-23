@@ -73,6 +73,7 @@
     * https://github.com/murphysean/betarustasyncawait
 * https://github.com/brson/basic-http-server
 * async
+    - https://github.com/rust-lang/async-book
     - https://www.reddit.com/r/rust/comments/c71f03/im_a_phd_student_building_a_fast_research/
     - https://github.com/jonhoo
     - https://www.youtube.com/watch?v=9_3krAQtD2k
