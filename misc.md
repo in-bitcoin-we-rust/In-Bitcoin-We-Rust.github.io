@@ -74,6 +74,7 @@
 * https://github.com/brson/basic-http-server
 * async
     - https://github.com/rust-lang/async-book
+    - https://thomashartmann.dev/blog/async-rust/
     - https://www.reddit.com/r/rust/comments/c71f03/im_a_phd_student_building_a_fast_research/
     - https://github.com/jonhoo
     - https://www.youtube.com/watch?v=9_3krAQtD2k
@@ -119,6 +120,10 @@
 + https://www.reddit.com/r/rust/comments/c9l2ow/speedy_desktop_apps_with_gtk_and_rust/
 
 ## misc
++ Thoughts on Error Handling in Rust
+    * https://lukaskalbertodt.github.io/2019/11/14/thoughts-on-error-handling-in-rust.html
++ Rust Bug Minimization Patterns
+    + http://blog.pnkfx.org/blog/2019/11/18/rust-bug-minimization-patterns/
 + https://zhuanlan.zhihu.com/p/87922545
     * 从openresty谈到rust
     * 人生苦短，我用rust。
