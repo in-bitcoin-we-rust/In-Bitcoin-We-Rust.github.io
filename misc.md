@@ -82,6 +82,7 @@
     - https://github.com/lrlna/sketchin/blob/master/zines/async-rust.md
     - http://fitzgeraldnick.com/2019/08/27/async-stacks-in-rust.html
     - https://ragona.com/posts/clobber_async_await
+    - https://rust.cc/article?id=15f11a13-cd35-4d90-8a68-0d8f1455e0ef
 * https://blog.yoshuawuyts.com/async-log/
 * https://www.snoyman.com/blog/2018/12/rust-crash-course-07-async-futures-tokio
 * https://speakerdeck.com/_rvidal/concurrency-in-rust-is-boring
