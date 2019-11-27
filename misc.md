@@ -116,6 +116,7 @@
 ## closure
 + https://medium.com/swlh/understanding-closures-in-rust-21f286ed1759
 - https://oribenshir.github.io/afternoon_rusting/blog/closures
+- https://blog.seantheprogrammer.com/neat-rust-tricks-passing-rust-closures-to-c
 
 ## GUI
 + https://www.reddit.com/r/rust/comments/c9l2ow/speedy_desktop_apps_with_gtk_and_rust/
@@ -123,6 +124,7 @@
 ## misc
 + Thoughts on Error Handling in Rust
     * https://lukaskalbertodt.github.io/2019/11/14/thoughts-on-error-handling-in-rust.html
++ https://www.ralfj.de/blog/2019/11/25/how-to-panic-in-rust.html
 + Rust Bug Minimization Patterns
     + http://blog.pnkfx.org/blog/2019/11/18/rust-bug-minimization-patterns/
 + https://zhuanlan.zhihu.com/p/87922545
