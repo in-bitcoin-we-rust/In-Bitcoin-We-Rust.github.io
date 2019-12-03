@@ -62,6 +62,8 @@
 + https://rfdonnelly.github.io/posts/using-tree-sitter-parsers-in-rust/
     * https://tree-sitter.github.io/tree-sitter/
 + https://parallel-rust-cpp.github.io/introduction.html
++ How to RiiR
+    * http://adventures.michaelfbryan.com/posts/how-to-riir/index.html
 
 ## web
 + https://book.async.rs/introduction.html
@@ -82,6 +84,8 @@
     - http://fitzgeraldnick.com/2019/08/27/async-stacks-in-rust.html
     - https://ragona.com/posts/clobber_async_await
     - https://rust.cc/article?id=15f11a13-cd35-4d90-8a68-0d8f1455e0ef
+    - [Some simple Rust async-std examples](https://www.philipdaniels.com/blog/2019/async-std-demo1/)
+    - [How does async work in async-std?](https://gist.github.com/Phaiax/dd3476f13b4542492f79e3ab2171eb8c)
 * https://blog.yoshuawuyts.com/async-log/
 * https://www.snoyman.com/blog/2018/12/rust-crash-course-07-async-futures-tokio
 * https://speakerdeck.com/_rvidal/concurrency-in-rust-is-boring
