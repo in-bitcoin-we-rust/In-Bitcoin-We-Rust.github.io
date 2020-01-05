@@ -128,6 +128,11 @@
 + https://www.reddit.com/r/rust/comments/c9l2ow/speedy_desktop_apps_with_gtk_and_rust/
 
 ## misc
++ 【译】设计优雅的 Rust 库 API
+    * https://www.aloxaf.com/2019/11/elegant_apis_in_rust/
+    * https://deterministic.space/elegant-apis-in-rust.html
+    * Rust 库团队的 @brson 已经发布了一个相当全面的 Rust API Guidelines 文档，囊括了我的所有建议，并且内容更全面。
+        * https://rust-lang.github.io/api-guidelines/
 + Thoughts on Error Handling in Rust
     * https://lukaskalbertodt.github.io/2019/11/14/thoughts-on-error-handling-in-rust.html
 + https://www.ralfj.de/blog/2019/11/25/how-to-panic-in-rust.html
