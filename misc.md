@@ -74,6 +74,7 @@
 * https://github.com/brson/basic-http-server
 * async
     - https://github.com/rust-lang/async-book
+    - [Demystifying Asynchronous Rust](https://github.com/teh-cmc/rust-async/)
     - https://thomashartmann.dev/blog/async-rust/
     - https://www.reddit.com/r/rust/comments/c71f03/im_a_phd_student_building_a_fast_research/
     - https://github.com/jonhoo
