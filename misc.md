@@ -18,7 +18,6 @@
 * https://fy.blackhats.net.au/blog/html/2019/07/16/cpu_atomics_and_orderings_explained.html
 * https://github.com/lizhuohua/linux-kernel-module-rust
     * Writing Linux Kernel Module in Rust
->>>>>>> fb6f9ecbf864e0b460f4a0a08f6f8c69a21142af
 * https://medium.com/@richardanaya/a-journey-through-rust-lifetimes-5a08782c7091
 * https://matklad.github.io/2019/07/16/perils-of-constructors.html
 * https://www.reddit.com/r/rust/comments/c66dtz/async_parallelize_your_shell_commands/
@@ -63,6 +62,8 @@
 + https://rfdonnelly.github.io/posts/using-tree-sitter-parsers-in-rust/
     * https://tree-sitter.github.io/tree-sitter/
 + https://parallel-rust-cpp.github.io/introduction.html
++ How to RiiR
+    * http://adventures.michaelfbryan.com/posts/how-to-riir/index.html
 
 ## web
 + https://book.async.rs/introduction.html
@@ -84,6 +85,8 @@
     - http://fitzgeraldnick.com/2019/08/27/async-stacks-in-rust.html
     - https://ragona.com/posts/clobber_async_await
     - https://rust.cc/article?id=15f11a13-cd35-4d90-8a68-0d8f1455e0ef
+    - [Some simple Rust async-std examples](https://www.philipdaniels.com/blog/2019/async-std-demo1/)
+    - [How does async work in async-std?](https://gist.github.com/Phaiax/dd3476f13b4542492f79e3ab2171eb8c)
 * https://blog.yoshuawuyts.com/async-log/
 * https://www.snoyman.com/blog/2018/12/rust-crash-course-07-async-futures-tokio
 * https://speakerdeck.com/_rvidal/concurrency-in-rust-is-boring
@@ -96,6 +99,8 @@
 + https://gill.net.in/posts/auth-microservice-rust-actix-web1.0-diesel-complete-tutorial/
 + https://github.com/Byron/github-star-counter
     * 供学习 Rust异步编程
++ 设计优雅的 Rust 库 API
+    + https://deterministic.space/elegant-apis-in-rust.html
 
 ## oop
 - https://oribenshir.github.io/afternoon_rusting/blog/rust-for-oop
