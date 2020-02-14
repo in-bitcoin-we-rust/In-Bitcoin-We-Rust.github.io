@@ -128,6 +128,7 @@
 + https://www.reddit.com/r/rust/comments/c9l2ow/speedy_desktop_apps_with_gtk_and_rust/
 
 ## misc
++ https://github.com/zsiciarz/24daysofrust
 + 【译】设计优雅的 Rust 库 API
     * https://www.aloxaf.com/2019/11/elegant_apis_in_rust/
     * https://deterministic.space/elegant-apis-in-rust.html
@@ -163,6 +164,7 @@
 * 提高编译速度
     - http://antoyo.ml/compilation-time-dependencies
 * 节省编译工程文件体积
+    - https://www.aloxaf.com/2018/09/reduce_rust_size/
     - https://medium.com/@edouard.oger/rust-caching-on-circleci-using-sccache-c996344f0115
     - https://llogiq.github.io/2018/10/17/space.html
         + https://www.reddit.com/r/rust/comments/9owc1o/more_space_for_cargo/
