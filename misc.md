@@ -130,6 +130,7 @@
 + Thoughts on Error Handling in Rust
     * https://lukaskalbertodt.github.io/2019/11/14/thoughts-on-error-handling-in-rust.html
 + https://www.ralfj.de/blog/2019/11/25/how-to-panic-in-rust.html
++ https://github.com/rust-secure-code/safety-dance
 + Rust Bug Minimization Patterns
     + http://blog.pnkfx.org/blog/2019/11/18/rust-bug-minimization-patterns/
 + https://zhuanlan.zhihu.com/p/87922545
