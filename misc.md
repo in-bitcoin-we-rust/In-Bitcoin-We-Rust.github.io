@@ -164,6 +164,7 @@
 * 提高编译速度
     - http://antoyo.ml/compilation-time-dependencies
 * 节省编译工程文件体积
+    - https://github.com/johnthagen/min-sized-rust
     - https://www.aloxaf.com/2018/09/reduce_rust_size/
     - https://medium.com/@edouard.oger/rust-caching-on-circleci-using-sccache-c996344f0115
     - https://llogiq.github.io/2018/10/17/space.html
