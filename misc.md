@@ -128,6 +128,8 @@
 + https://www.reddit.com/r/rust/comments/c9l2ow/speedy_desktop_apps_with_gtk_and_rust/
 
 ## misc
++ Rust高性能小技巧
+    + [Cheap tricks for high-performance Rust](https://deterministic.space/high-performance-rust.html)
 + https://github.com/zsiciarz/24daysofrust
 + 【译】设计优雅的 Rust 库 API
     * https://www.aloxaf.com/2019/11/elegant_apis_in_rust/
