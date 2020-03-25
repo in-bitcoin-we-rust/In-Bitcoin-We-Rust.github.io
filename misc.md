@@ -201,6 +201,6 @@ __solutions__
 + https://github.com/Armavica/99-Problems-Rust
 + https://github.com/MaskRay/99-problems-rust
 
-__算法/DS 库__
+__算法/DS (库)__
 
-TODO
++ https://rust-algo.club/index.html
