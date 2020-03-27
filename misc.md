@@ -204,3 +204,4 @@ __solutions__
 __算法/DS (库)__
 
 + https://rust-algo.club/index.html
++ https://github.com/TheAlgorithms/Rust
