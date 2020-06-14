@@ -146,6 +146,8 @@
     * 从openresty谈到rust
     * 人生苦短，我用rust。
 + https://github.com/rust-unofficial/patterns
++ https://github.com/dtolnay/case-studies
+    + Analysis of various tricky Rust code
 + https://github.com/mre/idiomatic-rust
     * A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.
 + https://francismurillo.github.io/2019-07-31-Understanding-Rust-Through-AVL-Trees/
