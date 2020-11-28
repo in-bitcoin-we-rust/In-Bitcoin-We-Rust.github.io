@@ -128,6 +128,7 @@
 + https://www.reddit.com/r/rust/comments/c9l2ow/speedy_desktop_apps_with_gtk_and_rust/
 
 ## misc
+- https://.github.io/faq/
 + [PROGRAMMING RULES TO DEVELOP SECURE APPLICATIONS WITH RUST](https://www.ssi.gouv.fr/en/guide/programming-rules-to-develop-secure-applications-with-rust/) (pdf)(https://github.com/in-bitcoin-we-rust/In-Bitcoin-We-Rust.github.io/blob/master/assets/anssi-guide-programming_rules_to_develop_secure_applications_with_rust-v1.0.pdf)
 + Rust高性能小技巧
     + [Cheap tricks for high-performance Rust](https://deterministic.space/high-performance-rust.html)
@@ -137,6 +138,7 @@
     * https://deterministic.space/elegant-apis-in-rust.html
     * Rust 库团队的 @brson 已经发布了一个相当全面的 Rust API Guidelines 文档，囊括了上述所有建议，并且内容更全面。
         * https://rust-lang.github.io/api-guidelines/
+- https://github.com/rust-lang/project-error-handling
 + Thoughts on Error Handling in Rust
     * https://lukaskalbertodt.github.io/2019/11/14/thoughts-on-error-handling-in-rust.html
 + https://www.ralfj.de/blog/2019/11/25/how-to-panic-in-rust.html
@@ -189,7 +191,8 @@
         + ~/.cargo/config 里的 build.target-dir
         + 或 export CARGO_TARGET_DIR=$HOME/.cache/cargo
     - 有个cargo的工具可以自动删长期没用过的?
-
++ [Rust内存管理 - 无名诗人 - 知乎专栏](https://zhuanlan.zhihu.com/p/298370002)
++ https://fasterthanli.me/blog/2020/working-with-strings-in-rust
 
 ## OJ-related
 __OJ__
