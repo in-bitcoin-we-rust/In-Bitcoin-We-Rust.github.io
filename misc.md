@@ -191,6 +191,10 @@
         + ~/.cargo/config 里的 build.target-dir
         + 或 export CARGO_TARGET_DIR=$HOME/.cache/cargo
     - 有个cargo的工具可以自动删长期没用过的?
++ docker
+    + [Optimizing Docker Images for Rust Projects](http://whitfin.io/speeding-up-rust-docker-builds/)
+    + [5x Faster Rust Docker Builds with cargo-chef](https://www.lpalmieri.com/posts/fast-rust-docker-builds/)
+    + https://benjamincongdon.me/blog/2019/12/04/Fast-Rust-Docker-Builds-with-cargo-vendor/
 + [Rust内存管理 - 无名诗人 - 知乎专栏](https://zhuanlan.zhihu.com/p/298370002)
 + https://fasterthanli.me/blog/2020/working-with-strings-in-rust
 
