@@ -10,6 +10,7 @@
     - https://github.com/isocpp/CppCoreGuidelines/blob/master/docs/Lifetime.pdf
 * https://rust-lang.github.io/rustc-guide/
 * https://doc.rust-lang.org/nightly/nightly-rustc/rustc/index.html
++ https://github.com/rustype/notes
 * https://os.phil-opp.com/
     - writing-an-os-in-rust
     * https://github.com/rustcc/writing-an-os-in-rust
