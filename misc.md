@@ -131,6 +131,7 @@
 ## misc
 - https://rust-zh.github.io/faq/
 + [PROGRAMMING RULES TO DEVELOP SECURE APPLICATIONS WITH RUST](https://www.ssi.gouv.fr/en/guide/programming-rules-to-develop-secure-applications-with-rust/) ([pdf](https://github.com/in-bitcoin-we-rust/In-Bitcoin-We-Rust.github.io/blob/master/assets/anssi-guide-programming_rules_to_develop_secure_applications_with_rust-v1.0.pdf))
++ [Rust Optimization.md](https://gist.github.com/jFransham/369a86eff00e5f280ed25121454acec1)
 + Rust高性能小技巧
     + [Cheap tricks for high-performance Rust](https://deterministic.space/high-performance-rust.html)
 + https://github.com/zsiciarz/24daysofrust
