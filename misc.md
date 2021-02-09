@@ -135,6 +135,7 @@
 + Rust高性能小技巧
     + [Cheap tricks for high-performance Rust](https://deterministic.space/high-performance-rust.html)
 + https://github.com/zsiciarz/24daysofrust
++ https://github.com/rust-random/book
 + 【译】设计优雅的 Rust 库 API
     * https://www.aloxaf.com/2019/11/elegant_apis_in_rust/
     * https://deterministic.space/elegant-apis-in-rust.html
