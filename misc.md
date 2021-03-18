@@ -129,6 +129,7 @@
 + https://www.reddit.com/r/rust/comments/c9l2ow/speedy_desktop_apps_with_gtk_and_rust/
 
 ## misc
++ https://github.com/rust-lang/rust-by-example
 - https://rust-zh.github.io/faq/
 + [PROGRAMMING RULES TO DEVELOP SECURE APPLICATIONS WITH RUST](https://www.ssi.gouv.fr/en/guide/programming-rules-to-develop-secure-applications-with-rust/) ([pdf](https://github.com/in-bitcoin-we-rust/In-Bitcoin-We-Rust.github.io/blob/master/assets/anssi-guide-programming_rules_to_develop_secure_applications_with_rust-v1.0.pdf))
 + [Rust Optimization.md](https://gist.github.com/jFransham/369a86eff00e5f280ed25121454acec1)
